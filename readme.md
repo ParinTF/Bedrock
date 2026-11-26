@@ -76,7 +76,6 @@ Currently in the initial development phase.
 ## Roadmap
 
 - [x] Repository initialization
-- [ ] Development environment setup
 - [ ] Dataset acquisition
 - [ ] Exploratory data analysis
 - [ ] Data ingestion pipeline
